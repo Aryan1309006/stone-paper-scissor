@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="mainbox">
+      <h1>STONE-PAPER-SCISSOR GAME</h1>
+      <div class="result">
+        <span
+          >You
+          <div id="choicehuman"></div>
+        </span>
+        <p id="result-op"></p>
+        <span
+          >Computer
+          <div id="choicecomp"></div>
+        </span>
+      </div>
+      <h3 id="choicew">choose any one</h3>
+      <div class="buttons">
+        <button id="stone"><img src="stone.jpg" /></button>
+        <button id="paper"><img src="paper.jpg" /></button>
+        <button id="scissor"><img src="scissor.jpg" /></button>
+      </div>
+      <button id="restart">
+        Play again <i class="fa-solid fa-rotate-right"></i>
+      </button>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
