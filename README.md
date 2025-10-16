@@ -1,16 +1,53 @@
-**Stone-Paper-Scissors Game**
-This is a simple and interactive game. This game allows user to choose between stone paper scissor against computer
-and give result like win loos or tie
+# 🪨📄✂️ Stone Paper Scissor Game
 
-languages used:
-<ul>
-  <li>Html</li>
-  <li>Css</li>
-  <li>Java script</li>
-</ul>
+A fun and interactive **Stone-Paper-Scissor** game built using **HTML, CSS, and JavaScript**.  
+Play against the computer, test your luck, and see if you can win!
 
-Game feature
-<ul>
-  <li>Simple gameplay:Easy to play interface.</li>
-  <li>Randomize computer choice : The computer generates randome choice each time </li>
-</ul>
+---
+
+## 🎮 Features
+
+- Simple and responsive UI  
+- Random computer moves using JavaScript  
+- Instant result display (Win, Lose, or Tie)  
+- Restart option for replaying the game  
+- Styled with modern CSS and Font Awesome icons  
+
+---
+
+## 🧩 Tech Stack
+
+- **HTML5** – Structure of the game  
+- **CSS3** – Styling and layout  
+- **JavaScript (ES6)** – Game logic and interactivity  
+- **Font Awesome** – Icons for UI enhancement  
+
+---
+
+## 🖥️ How to Play
+
+1. Choose **Stone**, **Paper**, or **Scissor**.  
+2. The computer randomly picks one.  
+3. Results are displayed instantly:  
+   - 🟢 *You Win!*  
+   - 🔴 *You Lose!*  
+   - ⚪ *It's a Tie!*  
+4. Click **Play Again** to restart the game.
+
+---
+📂 stone-paper-scissor-game
+├── index.html
+├── style.css
+├── script.js
+└── images
+    ├── stone.jpg
+    ├── paper.jpg
+    └── scissor.jpg
+
+
+## 🚀 Try game
+
+<a href="https://www.google.com" target="_blank">Ckick hear to play game</a>
+
+
+
