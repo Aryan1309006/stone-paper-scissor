@@ -35,19 +35,19 @@ Play against the computer, test your luck, and see if you can win!
 4. Click **Play Again** to restart the game.
 
 ---
-📂 stone-paper-scissor-game
-├── index.html
-├── style.css
-├── script.js
-└── images
-    ├── stone.jpg
-    ├── paper.jpg
-    └── scissor.jpg
+📂 stone-paper-scissor-game <br/>
+├── index.html <br>
+├── style.css <br>
+├── script.js <br>
+└── images <br>
+    ├── stone.jpg <br>
+    ├── paper.jpg <br>
+    └── scissor.jpg <br>
 
 
 ## 🚀 Try game
 
-<a href="https://www.google.com" target="_blank">Ckick hear to play game</a>
+<a href="https://aryan1309006.github.io/stone-paper-scissor/" target="_blank">Ckick hear to play game</a>
 
 
 
