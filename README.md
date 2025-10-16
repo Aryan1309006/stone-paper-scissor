@@ -35,15 +35,6 @@ Play against the computer, test your luck, and see if you can win!
 4. Click **Play Again** to restart the game.
 
 ---
-📂 stone-paper-scissor-game <br/>
-├── index.html <br>
-├── style.css <br>
-├── script.js <br>
-└── images <br>
-    ├── stone.jpg <br>
-    ├── paper.jpg <br>
-    └── scissor.jpg <br>
-
 
 ## 🚀 Try game
 
